@@ -10,4 +10,4 @@
 ## Live link
 [Link](https://lovely-hotteok-27039c.netlify.app/)
 
-![Uploading screenshot (6).png…]()
+![screenshot (8)](https://user-images.githubusercontent.com/74168885/181815292-6f9b4630-e3d0-42ad-916b-32af38813a78.png)
